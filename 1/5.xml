@@ -1,0 +1,33 @@
+<?xml-stylesheet type='text/css' href = '5.css'?>
+<html>
+<head>
+	<h1> Student Information</h1>
+</head>
+<Student>
+	<stud>
+		<USN>1OX15IS094</USN>
+		<NAME>RUKHIYA KULSOOM</NAME>
+		<BRANCH>ISE</BRANCH>
+		<COLLEGE>TOCE</COLLEGE>
+	</stud>
+	<stud>
+		<USN>1OX15IS103</USN>
+		<NAME>SANJANA H</NAME>
+		<BRANCH>ISE</BRANCH>
+		<COLLEGE>TOCE</COLLEGE>
+	</stud>
+	<stud>
+		<USN>1OX15IS125</USN>
+		<NAME>YASH BADIA</NAME>
+		<BRANCH>ISE</BRANCH>
+		<COLLEGE>TOCE</COLLEGE>
+	</stud>
+	<stud>
+		<USN>1OX15IS074</USN>
+		<NAME>PAWAN SHARMA</NAME>
+		<BRANCH>ISE</BRANCH>
+		<COLLEGE>TOCE</COLLEGE>
+	</stud>
+
+</Student>
+</html>

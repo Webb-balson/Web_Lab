@@ -1,0 +1,29 @@
+Student{
+	color: navy;
+	display: block;
+	margin-top: 10px; 
+}
+USN{
+	display: block;
+	color:blue;
+	margin-left: 10px;
+	font-size: 14pt;
+}
+NAME{
+	display: block;
+	color:orange;
+	margin-left: 10px;
+	font-size: 14pt;
+}
+BRANCH{
+	display: block;
+	color:brown;
+	margin-left: 10px;
+	font-size: 14pt;
+}
+COLLEGE{
+	display: block;
+	color:green;
+	margin-left: 10px;
+	font-size: 14pt;
+}
